@@ -8,8 +8,7 @@ The incorporated test API Key limits the user experience to Austin Texas.
 The focus will be around limiting the user experience to a single asset of interest. 
 [The Frost Bank Building](https://upload.wikimedia.org/wikipedia/commons/d/dd/FrostTower-Feb2009.JPG)
 
-
-<b>After forking this GitHub Repo you will incorporate Three additional operations</b>:
+<b>You will incorporate Three additional operations</b>:
 
 1.) Reading the included geojson file: "Frost_Bank_Building.geojson" as json and obtaining the building geometry on load-up.
 - Adding the operation in config.js will suffice. <i> "Hint: use ```require()``` or ```fetch()```"</i>
@@ -23,8 +22,9 @@ The focus will be around limiting the user experience to a single asset of inter
 
 4.) Extra Credit: [Render the geometry outline](https://openlayers.org/en/latest/examples/render-geometry.html) on the map canvas.
 
-
-Lastly you will commit and push your results to the forked GitHub Repo.
+<b>Submission Instructions</b>
+- <b>DO NOT</b> fork this repository or create pull requests on it as we don't want other candidates to see your solution.
+- Provide your solution as a .zip or .gz archive file, either via email or some Dropbox-like service, to your Nearmap contact.
 
 Once complete you will demonstrate the application and workflow in a follow-up call.
 
