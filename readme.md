@@ -8,7 +8,7 @@ The incorporated test API Key limits the user experience to Austin Texas.
 The focus will be around limiting the user experience to a single asset of interest. 
 [The Frost Bank Building](https://upload.wikimedia.org/wikipedia/commons/d/dd/FrostTower-Feb2009.JPG)
 
-<b>You will incorporate Three additional operations</b>:
+<b>You will incorporate a few additional operations</b>:
 
 1.) Reading the included geojson file: "Frost_Bank_Building.geojson" as json and obtaining the building geometry on load-up.
 - Adding the operation in config.js will suffice. <i> "Hint: use ```require()``` or ```fetch()```"</i>
