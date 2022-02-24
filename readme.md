@@ -2,6 +2,8 @@
 
 <b>The following is a standard JavaScript Test for new Nearmap Hires with JavaScript Experience.</b>
 
+The purpose of this assignment is to test your familiarity with web development. Specifically JS and OpenSource Web Mapping Frameworks.
+
 For this test you will leverage an existing App based on [OpenLayers](https://openlayers.org/)  <i> "A high-performance, feature-packed library for all your mapping needs."</i>
 
 The incorporated test API Key limits the user experience to Austin Texas.
